@@ -1,6 +1,6 @@
 # Projet_GLO_2005
 
-Web application for the project of the course GLO-2005
+Web application for the project of the course Database models and languages for engineers
 
 The web application consist of an ecommerce where you can explore beers 
 that come from brewery located in Quebec, Canda

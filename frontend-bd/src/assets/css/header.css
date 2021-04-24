@@ -1,0 +1,7 @@
+.header {
+    background: rgba(29, 27, 27, 0.596);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 17.0px );
+    -webkit-backdrop-filter: blur( 17.0px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}

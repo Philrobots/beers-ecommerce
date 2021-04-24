@@ -1,0 +1,70 @@
+.login-page{
+    background-repeat: no-repeat;
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+    background-image: url("../images/brewerie.jpg");
+    background-size: cover;
+}
+
+.signup-page{
+    background-repeat: no-repeat;
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+    background-image: url("../images/beers.jpg");
+    background-size: cover;
+}
+
+.right-half {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+
+    background: rgba(231, 231, 231, 0.5);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 12.5px );
+    -webkit-backdrop-filter: blur( 12.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.login-container {
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-text {
+    text-align: center;
+    font-family: "Roboto", serif;
+}
+
+.login-inputs {
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    align-items: center;
+}
+
+.mouse-hand {
+    cursor: pointer;
+}
+
+.input{
+    width: 70%;
+    max-width: 300px;
+    min-width: 200px;
+}
+
+.right-half .login-inputs {
+    margin-top: 1rem;
+
+}
+
+
